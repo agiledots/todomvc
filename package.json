@@ -22,6 +22,7 @@
     "eject": "react-scripts eject",
     "test": "react-scripts test --env=node"
   },
+  "homepage": "https://agiledots.github.io/todomvc/",
   "browserslist": [
     ">0.2%",
     "not dead",
